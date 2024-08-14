@@ -1,0 +1,22 @@
+Acá les dejo fuentes de donde saqué algunos componentes :
+
+Hero :
+https://library.livecanvas.com/sections/responsive-left-aligned-hero-with-image/
+
+Gradient CSS Generator : 
+https://mycolor.space/gradient?ori=to+right+top&hex=%23051937&hex2=%23A8EB12&sub=1
+
+iconos - Boxicons :
+https://boxicons.com/
+
+Sitio Oficial de Bootstrap :
+https://getbootstrap.com/
+
+Sweetalert : 
+https://sweetalert2.github.io/
+
+Sitio oficial netlify:
+https://app.netlify.com/
+
+Link proyecto subido en netlify :
+https://masterclass-2024.netlify.app/

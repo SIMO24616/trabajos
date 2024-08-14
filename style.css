@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0 ;
+}
+
+.navbar {
+  background-color: transparent !important; /* Fondo transparente inicial */
+  transition: background-color 0.1s ease; /* Transición suave del color de fondo */
+}
+
+/* Estilo para el texto de los enlaces */
+.navbar .nav-link {
+  color: #fff; /* Color del texto */
+}
+
+/* Estilo para el fondo blanco al hacer scroll */
+.navbar-scrolled {
+  background-color: #ffffff !important; /* Fondo blanco al hacer scroll */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+}
+
+/* Estilo para el texto de los enlaces cuando la barra está blanca */
+.navbar-scrolled .nav-link {
+  color: #333; /* Color del texto cuando la barra está blanca */
+}
+
+.gradient-text {
+
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  -webkit-background-clip: text; /* Para WebKit/Blink */
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent; /* Fallback para navegadores que no soportan background-clip */
+}
+
+
+.gradient-button {
+  padding: 10px 20px;
+  color: #fff;
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.button-bg {
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12) !important;
+}
+
+.but {
+  border:none;
+}
+
+@media (max-width:648px){
+  .profile{
+    width: 100%;
+  }
+
+  .navbar {
+    background-color: white !important;
+  }
+}
