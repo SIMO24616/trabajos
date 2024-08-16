@@ -1,0 +1,74 @@
+h1{ /*selector etiqueta*/
+    color:rgb(237, 0, 0);/*cambiamos el color */
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 20px;
+}
+p {
+    color: black;
+}
+h2 {
+    color: #FB6D6C; /* Código de color hexadecimal para rosa oscuro */
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 20px;
+}
+
+nombre-del-documento {
+    color: #FB6D6C; /* Este es el código de color para el rojo claro (Tomato) */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+h1 {
+    font-family: 'Kalam', cursive;
+}
+
+h3 {
+    color: salmon;
+}
+
+img {
+    background-color: rgb(0, 255, 255);
+    border: 16px solid black;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #C3C8D3;
+}
+
+h1{ /*selector etiqueta*/
+    color:rgb(237, 0, 0);/*cambiamos el color */
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 20px;
+}
+p {
+    color: black;
+}
+h2 {
+    color: #FB6D6C; /* Código de color hexadecimal para rosa oscuro */
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 20px;
+}
+
+nombre-del-documento {
+    color: #FB6D6C; /* Este es el código de color para el rojo claro (Tomato) */
+}
+section {
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-tecnologia-digital-alambre-malla-red_1017-27428.jpg");    
+}
+section {
+    background-repeat: no-repeat;
+}
